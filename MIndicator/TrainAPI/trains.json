@@ -1,0 +1,32 @@
+[
+{
+    "arrival_station": "Borivali",
+    "arrival_time": "9:30 AM",
+    "destination_station": "Kurla",
+    "destination_time": "3:30 PM"
+},
+{
+    "arrival_station": "Bandra",
+    "arrival_time": "10:30 AM",
+    "destination_station": "Kandivali",
+    "destination_time": "8:30 AM"
+},
+{
+    "arrival_station": "Charni Road",
+    "arrival_time": "11:30 AM",
+    "destination_station": "Borivali",
+    "destination_time": "8:30 AM"
+},
+{
+    "arrival_station": "Kurla",
+    "arrival_time": "1:30 AM",
+    "destination_station": "Borivali",
+    "destination_time": "8:30 AM"
+},
+{
+    "arrival_station": "Kandivali",
+    "arrival_time": "6:30 AM",
+    "destination_station": "Bandra",
+    "destination_time": "8:30 AM"
+}
+]
